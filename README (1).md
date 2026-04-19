@@ -3,7 +3,7 @@
 ## Repository Structure
 
 ```
-ml-assessment-<your-name>/
+ml-assessment-<kauseyo_basak>/
 ├── README.md                        ← You are here
 ├── part_a/
 │   ├── q1_supervised.ipynb          ← Heart disease classification (28 marks)
